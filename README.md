@@ -1,1 +1,4 @@
-> 
+## Product list page
+> Live demo [page](https://git.heroku.com/product-listing-page.git)
+
+> This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
