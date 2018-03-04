@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Main.scss';
+import '../styles/Main.scss';
 import ProductList from './ProductList.jsx';
 
 class Main extends Component {
